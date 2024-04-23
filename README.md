@@ -1,4 +1,4 @@
-# WAV File Volume Adjuster
+# modify-wav-file-volume
 
 ## Overview
 This is a simple example of how a .wav file can be manipulated via C to increase or decrease the output volume of .WAV file by a factor included as
